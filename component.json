@@ -1,5 +1,5 @@
 {
-  "name": "AngularJS with Modules",
+  "name": "angular-complete",
   "version": "1.0.2",
   "main": "./angular.js",
   "dependencies": {
